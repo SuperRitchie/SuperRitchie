@@ -137,8 +137,8 @@ A Python automation inspired by Tom Scott that uses the YouTube Data API and a s
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SuperRitchie&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github" alt="Ritchie's GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperRitchie&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14" alt="Ritchie's most used languages" />
+<img height="175" src="./profile/stats.svg" alt="Ritchie's GitHub stats" />
+<img height="175" src="./profile/top-langs.svg" alt="Ritchie's most used languages" />
 
 <br>
 
