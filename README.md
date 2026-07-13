@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:FF4D9D&height=230&section=header&text=Ritchie%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C3%97%20Computer%20Engineer&descAlignY=57&descSize=20" alt="Ritchie Kumar — Software Engineer and Computer Engineer" />
 
-<sub>Note: This document was made with AI assistance (ChatGPT)</sub>
-
 <br><br>
 
 <a href="https://ritchiek.tech">
